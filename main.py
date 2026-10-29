@@ -1,7 +1,6 @@
 import random
 random_number = random.randint(1, 20)
 print("This is a guessing game")
-print(random_number)
 user_proof = 1
 while True:
     try:
